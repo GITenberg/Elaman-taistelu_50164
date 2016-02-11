@@ -1,0 +1,21 @@
+_repo: Elaman-taistelu_50164
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2015-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50164'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Elämän taistelu
+url: http://www.gutenberg.org/ebooks/50164
